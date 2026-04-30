@@ -18,7 +18,7 @@ Strukturierte Markdown-Wissenssammlung aus den Telegram-Kanälen **@diplomatenar
 4. Fertig — alle WikiLinks und der Graph funktionieren sofort
 
 ```bash
-git clone https://github.com/USERNAME/kommerz-wissensbasis
+git clone https://github.com/pipderpreusse91-beep/kommerz-wissensbasis
 ```
 
 ### Option B — AnythingLLM (für Chatbot-Nutzung)
