@@ -6,6 +6,8 @@ Strukturierte Markdown-Wissenssammlung aus den Telegram-Kanälen **@diplomatenar
 
 **Status: Arbeit in Fortschritt** — Die Wissensbasis wird laufend erweitert. Regelmäßige Updates via `git pull`.
 
+> **Hinweis zur Qualität:** Alle Notes sind KI-generiert (lokales LLM, offline verarbeitet). Ein Teil der Notes trägt einen **Prüfungsvermerk** im Frontmatter (`pruefung_erforderlich: true`) — das bedeutet das Modell war unsicher. Diese Notes sind als Ausgangspunkt gedacht, nicht als abschließende Referenz. In Obsidian können diese Notes über den Filter `pruefung_erforderlich: true` identifiziert werden.
+
 ---
 
 ## Nutzungswege
