@@ -1,0 +1,13 @@
+# Offtopic-Analyse (interner Prozess, nicht für Nutzer)
+06_sonstiges/
+
+# Leere Ordner
+Attachments/
+Archiv/
+
+# Obsidian persönliche Einstellungen
+**/.obsidian/
+
+# macOS
+.DS_Store
+**/.DS_Store
